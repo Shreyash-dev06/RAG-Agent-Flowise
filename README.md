@@ -85,7 +85,7 @@ The system processes a PDF document, divides it into smaller chunks, generates v
 
 The complete workflow is implemented as a Flowise Chatflow and is provided in this repository.
 
-![Flowise RAG Workflow](https://github.com/Shreyash-dev06/RAG-Agent-Flowise/blob/main/RAG-Agent-Flowise/rag-workflow.png.png)
+![Flowise RAG Workflow](https://github.com/Shreyash-dev06/RAG-Agent-Flowise/blob/main/rag-workflow.png)
 
 The workflow contains the following major components:
 
