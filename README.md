@@ -450,6 +450,12 @@ Type: PDF File Loader
 Usage: One document per page
 ```
 
+## Additional Parameters for Conversational Retrieval QA Chain
+
+The **Conversational Retrieval QA Chain** uses two custom prompts for question rephrasing and context-based answer generation.
+
+The complete prompt configuration is available [here](prompts.md).
+
 ---
 
 # Why Local RAG?
